@@ -6,6 +6,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
+testtesttest
+
 The goal of calcthat is to make the common calculation, subtracting
 minimum value from maximum value, more convenient.
 
