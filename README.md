@@ -16,7 +16,7 @@ You can install the development version of `calcthat` from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("April-UBC/calcthat")
+devtools::install_github("stat545ubc-2023/calcthat")
 ```
 
 ## Usage
