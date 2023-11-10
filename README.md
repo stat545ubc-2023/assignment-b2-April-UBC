@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of calcthat is to make the common calculation, subtracting
+The goal of `calcthat` is to make a common calculation, subtracting
 minimum value from maximum value, more convenient.
 
 ## Installation
